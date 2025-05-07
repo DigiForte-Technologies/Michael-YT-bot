@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@pinecone-database/pinecone": "^5.1.2",
+    "@supabase/supabase-js": "^2.49.4",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "openai": "^4.97.0",
+    "path": "^0.12.7",
+    "url": "^0.11.4",
+    "uuid": "^11.1.0"
+  }
+}
